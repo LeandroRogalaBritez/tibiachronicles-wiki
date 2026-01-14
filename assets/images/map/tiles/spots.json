@@ -1,0 +1,14 @@
+{ "columns":21,
+ "image":"spots_lianas.png",
+ "imageheight":256,
+ "imagewidth":336,
+ "margin":0,
+ "name":"spots",
+ "spacing":0,
+ "tilecount":336,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}
