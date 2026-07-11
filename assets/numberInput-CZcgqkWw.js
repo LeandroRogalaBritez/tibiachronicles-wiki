@@ -1,0 +1,1 @@
+function r(t){return t===""||t==="-"?t:t.replace(/^(-?)0+(?=\d)/,"$1")}function e(t){const n=r(t.target.value);return n!==t.target.value&&(t.target.value=n),n===""?"":parseInt(n,10)}function a(t,n){return t===""?n:t}export{e as h,a as n};
