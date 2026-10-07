@@ -1,0 +1,819 @@
+{
+  "_BackButton-wDlJuQQP.js": {
+    "file": "assets/BackButton-wDlJuQQP.js",
+    "name": "BackButton",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_EditorialNote-Dy08EuT6.js": {
+    "file": "assets/EditorialNote-Dy08EuT6.js",
+    "name": "EditorialNote",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_ElementIcon-BGTSraVE.js": {
+    "file": "assets/ElementIcon-BGTSraVE.js",
+    "name": "ElementIcon",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_ItemSprite-DtaU8VVF.js": {
+    "file": "assets/ItemSprite-DtaU8VVF.js",
+    "name": "ItemSprite",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_MonsterSprite-VGMlbUSt.js": {
+    "file": "assets/MonsterSprite-VGMlbUSt.js",
+    "name": "MonsterSprite",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_SEO-7pXnCthh.js": {
+    "file": "assets/SEO-7pXnCthh.js",
+    "name": "SEO",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_arrow-up-YQGdCxSd.js": {
+    "file": "assets/arrow-up-YQGdCxSd.js",
+    "name": "arrow-up",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_award-DBjFl-IA.js": {
+    "file": "assets/award-DBjFl-IA.js",
+    "name": "award",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_badge-DB6H1yur.js": {
+    "file": "assets/badge-DB6H1yur.js",
+    "name": "badge",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_calculator-DPdlA4tl.js": {
+    "file": "assets/calculator-DPdlA4tl.js",
+    "name": "calculator",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_card-qZVG3vTw.js": {
+    "file": "assets/card-qZVG3vTw.js",
+    "name": "card",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_check-DFZoiDRo.js": {
+    "file": "assets/check-DFZoiDRo.js",
+    "name": "check",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_clock-DfGPAJoo.js": {
+    "file": "assets/clock-DfGPAJoo.js",
+    "name": "clock",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_coins-7YhQHkH7.js": {
+    "file": "assets/coins-7YhQHkH7.js",
+    "name": "coins",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_command-DVFVYFIK.js": {
+    "file": "assets/command-DVFVYFIK.js",
+    "name": "command",
+    "imports": [
+      "index.html",
+      "_dialog-CGXuHlDm.js"
+    ]
+  },
+  "_dialog-CGXuHlDm.js": {
+    "file": "assets/dialog-CGXuHlDm.js",
+    "name": "dialog",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_hammer-BW_43wEv.js": {
+    "file": "assets/hammer-BW_43wEv.js",
+    "name": "hammer",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_heart-qKTiOAC3.js": {
+    "file": "assets/heart-qKTiOAC3.js",
+    "name": "heart",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_imbuements-CBMOm_ZV.js": {
+    "file": "assets/imbuements-CBMOm_ZV.js",
+    "name": "imbuements",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_index-BdQq_4o_.js": {
+    "file": "assets/index-BdQq_4o_.js",
+    "name": "index"
+  },
+  "_index-Dmqyxmhl.js": {
+    "file": "assets/index-Dmqyxmhl.js",
+    "name": "index",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_index-fbZVoNHW.js": {
+    "file": "assets/index-fbZVoNHW.js",
+    "name": "index",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_items-DQrJhUFa.js": {
+    "file": "assets/items-DQrJhUFa.js",
+    "name": "items",
+    "imports": [
+      "_imbuements-CBMOm_ZV.js"
+    ]
+  },
+  "_label-Dd1wHLti.js": {
+    "file": "assets/label-Dd1wHLti.js",
+    "name": "label",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_monsterCalculations-BLvT66M7.js": {
+    "file": "assets/monsterCalculations-BLvT66M7.js",
+    "name": "monsterCalculations",
+    "imports": [
+      "_statsCalculations-DvanvIiP.js"
+    ]
+  },
+  "_monsterUtils-CmuYQd2j.js": {
+    "file": "assets/monsterUtils-CmuYQd2j.js",
+    "name": "monsterUtils"
+  },
+  "_monsters-DeCWZh49.js": {
+    "file": "assets/monsters-DeCWZh49.js",
+    "name": "monsters"
+  },
+  "_numberInput-CZcgqkWw.js": {
+    "file": "assets/numberInput-CZcgqkWw.js",
+    "name": "numberInput"
+  },
+  "_phases-CR5VNpDj.js": {
+    "file": "assets/phases-CR5VNpDj.js",
+    "name": "phases"
+  },
+  "_select-CVgjG_rr.js": {
+    "file": "assets/select-CVgjG_rr.js",
+    "name": "select",
+    "imports": [
+      "index.html",
+      "_index-BdQq_4o_.js",
+      "_index-fbZVoNHW.js",
+      "_index-Dmqyxmhl.js",
+      "_check-DFZoiDRo.js"
+    ]
+  },
+  "_shield-BTjXnNld.js": {
+    "file": "assets/shield-BTjXnNld.js",
+    "name": "shield",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_spells-C6bI-JBI.js": {
+    "file": "assets/spells-C6bI-JBI.js",
+    "name": "spells"
+  },
+  "_statsCalculations-DvanvIiP.js": {
+    "file": "assets/statsCalculations-DvanvIiP.js",
+    "name": "statsCalculations"
+  },
+  "_sword-C1E7C2BE.js": {
+    "file": "assets/sword-C1E7C2BE.js",
+    "name": "sword",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_swords-CBW34AtR.js": {
+    "file": "assets/swords-CBW34AtR.js",
+    "name": "swords",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_table-BYkHR7oO.js": {
+    "file": "assets/table-BYkHR7oO.js",
+    "name": "table",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_tabs-BrWREsBQ.js": {
+    "file": "assets/tabs-BrWREsBQ.js",
+    "name": "tabs",
+    "imports": [
+      "index.html",
+      "_index-fbZVoNHW.js"
+    ]
+  },
+  "_target-DQyimpor.js": {
+    "file": "assets/target-DQyimpor.js",
+    "name": "target",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_timer-4I-rY6-S.js": {
+    "file": "assets/timer-4I-rY6-S.js",
+    "name": "timer",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_trophy-B7b7o9N9.js": {
+    "file": "assets/trophy-B7b7o9N9.js",
+    "name": "trophy",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_users-DQF4J3Tt.js": {
+    "file": "assets/users-DQF4J3Tt.js",
+    "name": "users",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_zap-sjeaHxlt.js": {
+    "file": "assets/zap-sjeaHxlt.js",
+    "name": "zap",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-CEmvlLM7.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/pages/Home.tsx",
+      "src/pages/NotFound.tsx",
+      "src/pages/SpellWiki.tsx",
+      "src/pages/SpellDetail.tsx",
+      "src/pages/ItemsWiki.tsx",
+      "src/pages/MonsterWiki.tsx",
+      "src/pages/MonsterDetail.tsx",
+      "src/pages/ItemDetail.tsx",
+      "src/pages/PhaseWiki.tsx",
+      "src/pages/PhaseDetail.tsx",
+      "src/pages/MonsterTracker.tsx",
+      "src/pages/SystemsWiki.tsx",
+      "src/pages/PhaseComparator.tsx",
+      "src/pages/ItemComparator.tsx",
+      "src/pages/PrivacyPolicy.tsx",
+      "src/pages/About.tsx",
+      "src/pages/GuidesWiki.tsx",
+      "src/pages/SystemDetail.tsx",
+      "src/pages/GuideDetail.tsx",
+      "src/pages/MaterialDetail.tsx",
+      "src/pages/ImbuementsWiki.tsx",
+      "src/pages/ImbuementDetail.tsx",
+      "src/pages/ForgeCalculator.tsx",
+      "src/pages/ConvergenceFinder.tsx",
+      "src/pages/XpTable.tsx"
+    ],
+    "css": [
+      "assets/index-BeTItJY-.css"
+    ]
+  },
+  "src/components/DailyBoostedMonster.tsx": {
+    "file": "assets/DailyBoostedMonster-CPQmv7SX.js",
+    "name": "DailyBoostedMonster",
+    "src": "src/components/DailyBoostedMonster.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_card-qZVG3vTw.js",
+      "_badge-DB6H1yur.js",
+      "_MonsterSprite-VGMlbUSt.js",
+      "_phases-CR5VNpDj.js",
+      "_monsters-DeCWZh49.js",
+      "_coins-7YhQHkH7.js",
+      "_timer-4I-rY6-S.js"
+    ]
+  },
+  "src/pages/About.tsx": {
+    "file": "assets/About-DRwsn1Lq.js",
+    "name": "About",
+    "src": "src/pages/About.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_SEO-7pXnCthh.js"
+    ]
+  },
+  "src/pages/ConvergenceFinder.tsx": {
+    "file": "assets/ConvergenceFinder-BK2Ezl85.js",
+    "name": "ConvergenceFinder",
+    "src": "src/pages/ConvergenceFinder.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_SEO-7pXnCthh.js",
+      "_items-DQrJhUFa.js",
+      "_card-qZVG3vTw.js",
+      "_badge-DB6H1yur.js",
+      "_command-DVFVYFIK.js",
+      "_ItemSprite-DtaU8VVF.js",
+      "_statsCalculations-DvanvIiP.js",
+      "_check-DFZoiDRo.js",
+      "_imbuements-CBMOm_ZV.js",
+      "_dialog-CGXuHlDm.js"
+    ]
+  },
+  "src/pages/ForgeCalculator.tsx": {
+    "file": "assets/ForgeCalculator-FsznuOaS.js",
+    "name": "ForgeCalculator",
+    "src": "src/pages/ForgeCalculator.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_SEO-7pXnCthh.js",
+      "_label-Dd1wHLti.js",
+      "_card-qZVG3vTw.js",
+      "_tabs-BrWREsBQ.js",
+      "_table-BYkHR7oO.js",
+      "_numberInput-CZcgqkWw.js",
+      "_statsCalculations-DvanvIiP.js",
+      "_calculator-DPdlA4tl.js",
+      "_hammer-BW_43wEv.js",
+      "_coins-7YhQHkH7.js",
+      "_index-fbZVoNHW.js"
+    ]
+  },
+  "src/pages/GuideDetail.tsx": {
+    "file": "assets/GuideDetail-CTjBFxG1.js",
+    "name": "GuideDetail",
+    "src": "src/pages/GuideDetail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_BackButton-wDlJuQQP.js",
+      "_card-qZVG3vTw.js",
+      "_EditorialNote-Dy08EuT6.js",
+      "_SEO-7pXnCthh.js",
+      "_statsCalculations-DvanvIiP.js",
+      "_target-DQyimpor.js",
+      "_shield-BTjXnNld.js",
+      "_hammer-BW_43wEv.js",
+      "_coins-7YhQHkH7.js",
+      "_swords-CBW34AtR.js"
+    ]
+  },
+  "src/pages/GuidesWiki.tsx": {
+    "file": "assets/GuidesWiki-Do2WCbKX.js",
+    "name": "GuidesWiki",
+    "src": "src/pages/GuidesWiki.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_card-qZVG3vTw.js",
+      "_SEO-7pXnCthh.js",
+      "_shield-BTjXnNld.js",
+      "_sword-C1E7C2BE.js"
+    ]
+  },
+  "src/pages/Home.tsx": {
+    "file": "assets/Home-C0SKUhw6.js",
+    "name": "Home",
+    "src": "src/pages/Home.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_card-qZVG3vTw.js",
+      "_SEO-7pXnCthh.js"
+    ],
+    "dynamicImports": [
+      "src/components/DailyBoostedMonster.tsx"
+    ]
+  },
+  "src/pages/ImbuementDetail.tsx": {
+    "file": "assets/ImbuementDetail-Zqi9QHCE.js",
+    "name": "ImbuementDetail",
+    "src": "src/pages/ImbuementDetail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_BackButton-wDlJuQQP.js",
+      "_card-qZVG3vTw.js",
+      "_imbuements-CBMOm_ZV.js",
+      "_monsters-DeCWZh49.js",
+      "_MonsterSprite-VGMlbUSt.js",
+      "_SEO-7pXnCthh.js",
+      "_clock-DfGPAJoo.js",
+      "_coins-7YhQHkH7.js"
+    ]
+  },
+  "src/pages/ImbuementsWiki.tsx": {
+    "file": "assets/ImbuementsWiki-BOOyLrgh.js",
+    "name": "ImbuementsWiki",
+    "src": "src/pages/ImbuementsWiki.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_badge-DB6H1yur.js",
+      "_select-CVgjG_rr.js",
+      "_table-BYkHR7oO.js",
+      "_imbuements-CBMOm_ZV.js",
+      "_SEO-7pXnCthh.js",
+      "_index-BdQq_4o_.js",
+      "_index-fbZVoNHW.js",
+      "_index-Dmqyxmhl.js",
+      "_check-DFZoiDRo.js"
+    ]
+  },
+  "src/pages/ItemComparator.tsx": {
+    "file": "assets/ItemComparator-DMTALWAQ.js",
+    "name": "ItemComparator",
+    "src": "src/pages/ItemComparator.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_SEO-7pXnCthh.js",
+      "_items-DQrJhUFa.js",
+      "_card-qZVG3vTw.js",
+      "_statsCalculations-DvanvIiP.js",
+      "_command-DVFVYFIK.js",
+      "_ElementIcon-BGTSraVE.js",
+      "_ItemSprite-DtaU8VVF.js",
+      "_numberInput-CZcgqkWw.js",
+      "_check-DFZoiDRo.js",
+      "_imbuements-CBMOm_ZV.js",
+      "_dialog-CGXuHlDm.js"
+    ]
+  },
+  "src/pages/ItemDetail.tsx": {
+    "file": "assets/ItemDetail-Dgmh3zrv.js",
+    "name": "ItemDetail",
+    "src": "src/pages/ItemDetail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_BackButton-wDlJuQQP.js",
+      "_badge-DB6H1yur.js",
+      "_card-qZVG3vTw.js",
+      "_items-DQrJhUFa.js",
+      "_imbuements-CBMOm_ZV.js",
+      "_ElementIcon-BGTSraVE.js",
+      "_statsCalculations-DvanvIiP.js",
+      "_label-Dd1wHLti.js",
+      "_ItemSprite-DtaU8VVF.js",
+      "_MonsterSprite-VGMlbUSt.js",
+      "_monsters-DeCWZh49.js",
+      "_numberInput-CZcgqkWw.js",
+      "_SEO-7pXnCthh.js",
+      "_award-DBjFl-IA.js",
+      "_sword-C1E7C2BE.js",
+      "_shield-BTjXnNld.js",
+      "_target-DQyimpor.js",
+      "_zap-sjeaHxlt.js",
+      "_heart-qKTiOAC3.js"
+    ]
+  },
+  "src/pages/ItemsWiki.tsx": {
+    "file": "assets/ItemsWiki-D6Fr715V.js",
+    "name": "ItemsWiki",
+    "src": "src/pages/ItemsWiki.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_badge-DB6H1yur.js",
+      "_select-CVgjG_rr.js",
+      "_items-DQrJhUFa.js",
+      "_imbuements-CBMOm_ZV.js",
+      "_table-BYkHR7oO.js",
+      "_tabs-BrWREsBQ.js",
+      "_ElementIcon-BGTSraVE.js",
+      "_statsCalculations-DvanvIiP.js",
+      "_ItemSprite-DtaU8VVF.js",
+      "_SEO-7pXnCthh.js",
+      "_arrow-up-YQGdCxSd.js",
+      "_index-BdQq_4o_.js",
+      "_index-fbZVoNHW.js",
+      "_index-Dmqyxmhl.js",
+      "_check-DFZoiDRo.js"
+    ]
+  },
+  "src/pages/MaterialDetail.tsx": {
+    "file": "assets/MaterialDetail-B0sKWwHI.js",
+    "name": "MaterialDetail",
+    "src": "src/pages/MaterialDetail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_BackButton-wDlJuQQP.js",
+      "_card-qZVG3vTw.js",
+      "_badge-DB6H1yur.js",
+      "_imbuements-CBMOm_ZV.js",
+      "_monsters-DeCWZh49.js",
+      "_MonsterSprite-VGMlbUSt.js",
+      "_SEO-7pXnCthh.js"
+    ]
+  },
+  "src/pages/MonsterDetail.tsx": {
+    "file": "assets/MonsterDetail-BLdnwo3R.js",
+    "name": "MonsterDetail",
+    "src": "src/pages/MonsterDetail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_BackButton-wDlJuQQP.js",
+      "_MonsterSprite-VGMlbUSt.js",
+      "_ItemSprite-DtaU8VVF.js",
+      "_badge-DB6H1yur.js",
+      "_card-qZVG3vTw.js",
+      "_label-Dd1wHLti.js",
+      "_monsterCalculations-BLvT66M7.js",
+      "_monsterUtils-CmuYQd2j.js",
+      "_select-CVgjG_rr.js",
+      "_ElementIcon-BGTSraVE.js",
+      "_SEO-7pXnCthh.js",
+      "_monsters-DeCWZh49.js",
+      "_phases-CR5VNpDj.js",
+      "_items-DQrJhUFa.js",
+      "_numberInput-CZcgqkWw.js",
+      "_heart-qKTiOAC3.js",
+      "_award-DBjFl-IA.js",
+      "_sword-C1E7C2BE.js",
+      "_shield-BTjXnNld.js",
+      "_zap-sjeaHxlt.js",
+      "_timer-4I-rY6-S.js",
+      "_statsCalculations-DvanvIiP.js",
+      "_index-BdQq_4o_.js",
+      "_index-fbZVoNHW.js",
+      "_index-Dmqyxmhl.js",
+      "_check-DFZoiDRo.js",
+      "_imbuements-CBMOm_ZV.js"
+    ]
+  },
+  "src/pages/MonsterTracker.tsx": {
+    "file": "assets/MonsterTracker-Dqgf5VwI.js",
+    "name": "MonsterTracker",
+    "src": "src/pages/MonsterTracker.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_SEO-7pXnCthh.js",
+      "_monsters-DeCWZh49.js",
+      "_phases-CR5VNpDj.js",
+      "_card-qZVG3vTw.js",
+      "_badge-DB6H1yur.js",
+      "_index-fbZVoNHW.js",
+      "_index-BdQq_4o_.js",
+      "_MonsterSprite-VGMlbUSt.js",
+      "_users-DQF4J3Tt.js"
+    ]
+  },
+  "src/pages/MonsterWiki.tsx": {
+    "file": "assets/MonsterWiki-D05RNs1S.js",
+    "name": "MonsterWiki",
+    "src": "src/pages/MonsterWiki.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_MonsterSprite-VGMlbUSt.js",
+      "_ItemSprite-DtaU8VVF.js",
+      "_badge-DB6H1yur.js",
+      "_tabs-BrWREsBQ.js",
+      "_table-BYkHR7oO.js",
+      "_monsterCalculations-BLvT66M7.js",
+      "_monsterUtils-CmuYQd2j.js",
+      "_ElementIcon-BGTSraVE.js",
+      "_SEO-7pXnCthh.js",
+      "_monsters-DeCWZh49.js",
+      "_phases-CR5VNpDj.js",
+      "_items-DQrJhUFa.js",
+      "_arrow-up-YQGdCxSd.js",
+      "_index-fbZVoNHW.js",
+      "_statsCalculations-DvanvIiP.js",
+      "_imbuements-CBMOm_ZV.js"
+    ]
+  },
+  "src/pages/NotFound.tsx": {
+    "file": "assets/NotFound-CmcR8COk.js",
+    "name": "NotFound",
+    "src": "src/pages/NotFound.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_SEO-7pXnCthh.js"
+    ]
+  },
+  "src/pages/PhaseComparator.tsx": {
+    "file": "assets/PhaseComparator-CM8ZeJ6T.js",
+    "name": "PhaseComparator",
+    "src": "src/pages/PhaseComparator.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_card-qZVG3vTw.js",
+      "_badge-DB6H1yur.js",
+      "_index-Dmqyxmhl.js",
+      "_check-DFZoiDRo.js",
+      "_monsterCalculations-BLvT66M7.js",
+      "_SEO-7pXnCthh.js",
+      "_monsters-DeCWZh49.js",
+      "_phases-CR5VNpDj.js",
+      "_numberInput-CZcgqkWw.js",
+      "_statsCalculations-DvanvIiP.js"
+    ]
+  },
+  "src/pages/PhaseDetail.tsx": {
+    "file": "assets/PhaseDetail-CWsJ4Bep.js",
+    "name": "PhaseDetail",
+    "src": "src/pages/PhaseDetail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_BackButton-wDlJuQQP.js",
+      "_label-Dd1wHLti.js",
+      "_badge-DB6H1yur.js",
+      "_card-qZVG3vTw.js",
+      "_table-BYkHR7oO.js",
+      "_tabs-BrWREsBQ.js",
+      "_MonsterSprite-VGMlbUSt.js",
+      "_ElementIcon-BGTSraVE.js",
+      "_monsterCalculations-BLvT66M7.js",
+      "_monsterUtils-CmuYQd2j.js",
+      "_phases-CR5VNpDj.js",
+      "_monsters-DeCWZh49.js",
+      "_items-DQrJhUFa.js",
+      "_ItemSprite-DtaU8VVF.js",
+      "_numberInput-CZcgqkWw.js",
+      "_SEO-7pXnCthh.js",
+      "_timer-4I-rY6-S.js",
+      "_users-DQF4J3Tt.js",
+      "_index-fbZVoNHW.js",
+      "_statsCalculations-DvanvIiP.js",
+      "_imbuements-CBMOm_ZV.js"
+    ]
+  },
+  "src/pages/PhaseWiki.tsx": {
+    "file": "assets/PhaseWiki-BCnHtj65.js",
+    "name": "PhaseWiki",
+    "src": "src/pages/PhaseWiki.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_badge-DB6H1yur.js",
+      "_table-BYkHR7oO.js",
+      "_phases-CR5VNpDj.js",
+      "_SEO-7pXnCthh.js",
+      "_arrow-up-YQGdCxSd.js"
+    ]
+  },
+  "src/pages/PrivacyPolicy.tsx": {
+    "file": "assets/PrivacyPolicy-C3cQE2i9.js",
+    "name": "PrivacyPolicy",
+    "src": "src/pages/PrivacyPolicy.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_SEO-7pXnCthh.js"
+    ]
+  },
+  "src/pages/SpellDetail.tsx": {
+    "file": "assets/SpellDetail-DFOECmuc.js",
+    "name": "SpellDetail",
+    "src": "src/pages/SpellDetail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_BackButton-wDlJuQQP.js",
+      "_badge-DB6H1yur.js",
+      "_card-qZVG3vTw.js",
+      "_spells-C6bI-JBI.js",
+      "_ElementIcon-BGTSraVE.js",
+      "_SEO-7pXnCthh.js",
+      "_award-DBjFl-IA.js",
+      "_target-DQyimpor.js",
+      "_timer-4I-rY6-S.js",
+      "_zap-sjeaHxlt.js"
+    ]
+  },
+  "src/pages/SpellWiki.tsx": {
+    "file": "assets/SpellWiki-FAH4R9dH.js",
+    "name": "SpellWiki",
+    "src": "src/pages/SpellWiki.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_tabs-BrWREsBQ.js",
+      "_badge-DB6H1yur.js",
+      "_table-BYkHR7oO.js",
+      "_items-DQrJhUFa.js",
+      "_spells-C6bI-JBI.js",
+      "_ElementIcon-BGTSraVE.js",
+      "_SEO-7pXnCthh.js",
+      "_arrow-up-YQGdCxSd.js",
+      "_index-fbZVoNHW.js",
+      "_imbuements-CBMOm_ZV.js"
+    ]
+  },
+  "src/pages/SystemDetail.tsx": {
+    "file": "assets/SystemDetail-BlOSF8Tm.js",
+    "name": "SystemDetail",
+    "src": "src/pages/SystemDetail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_BackButton-wDlJuQQP.js",
+      "_statsCalculations-DvanvIiP.js",
+      "_card-qZVG3vTw.js",
+      "_tabs-BrWREsBQ.js",
+      "_imbuements-CBMOm_ZV.js",
+      "_monsters-DeCWZh49.js",
+      "_MonsterSprite-VGMlbUSt.js",
+      "_EditorialNote-Dy08EuT6.js",
+      "_SEO-7pXnCthh.js",
+      "_items-DQrJhUFa.js",
+      "_ElementIcon-BGTSraVE.js",
+      "_ItemSprite-DtaU8VVF.js",
+      "_badge-DB6H1yur.js",
+      "_dialog-CGXuHlDm.js",
+      "_table-BYkHR7oO.js",
+      "_swords-CBW34AtR.js",
+      "_heart-qKTiOAC3.js",
+      "_trophy-B7b7o9N9.js",
+      "_zap-sjeaHxlt.js",
+      "_sword-C1E7C2BE.js",
+      "_shield-BTjXnNld.js",
+      "_target-DQyimpor.js",
+      "_clock-DfGPAJoo.js",
+      "_award-DBjFl-IA.js",
+      "_coins-7YhQHkH7.js",
+      "_hammer-BW_43wEv.js",
+      "_calculator-DPdlA4tl.js",
+      "_users-DQF4J3Tt.js",
+      "_index-fbZVoNHW.js"
+    ]
+  },
+  "src/pages/SystemsWiki.tsx": {
+    "file": "assets/SystemsWiki-BKcQUJya.js",
+    "name": "SystemsWiki",
+    "src": "src/pages/SystemsWiki.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_card-qZVG3vTw.js",
+      "_SEO-7pXnCthh.js",
+      "_trophy-B7b7o9N9.js",
+      "_heart-qKTiOAC3.js",
+      "_hammer-BW_43wEv.js",
+      "_swords-CBW34AtR.js",
+      "_zap-sjeaHxlt.js"
+    ]
+  },
+  "src/pages/XpTable.tsx": {
+    "file": "assets/XpTable-C6OU2Nx1.js",
+    "name": "XpTable",
+    "src": "src/pages/XpTable.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_SEO-7pXnCthh.js",
+      "_label-Dd1wHLti.js",
+      "_card-qZVG3vTw.js",
+      "_table-BYkHR7oO.js",
+      "_numberInput-CZcgqkWw.js"
+    ]
+  }
+}
